@@ -6,7 +6,7 @@ Back-end Authentification
 -   By: Emmanuel Turlay, Staff Software Engineer at Cruise
 -   Weight: 1
 
-![image](https://github.com/Emmanuelaji/alx-backend-user-data/assets/106776383/2ea18105-51f4-4b50-88b6-399466e237ed)
+![image](https://github.com/Emmanuelaji/blob/alx-backend-user-data/assets/106776383/2ea18105-51f4-4b50-88b6-399466e237ed)
 
 In the industry, you should **not** implement your own authentication system and use a module or framework that doing it for you (like in Python-Flask: [Flask-User](https://flask-user.readthedocs.io/en/latest/ "Flask-User")). Here, for the learning purpose, we will walk through each step of this mechanism to understand it by doing.
 
